@@ -1,0 +1,5 @@
+name, price, quantity, unit of measure, provider
+orange, 40, 1, kg, grocery store
+apple, 20, 0.5, kg, super market
+banana, 30, 0.2, kg, grocery store
+mango, 15, 0.25, kg, supermarket

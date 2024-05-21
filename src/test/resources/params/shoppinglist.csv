@@ -1,0 +1,5 @@
+name, price, quantity, unit of measure, provider
+tomato, 40, 1, kg, grocery store
+carrot, 20, 0.5, kg, super market
+cabbage, 30, 0.2, kg, grocery store
+beetroot, 15, 0.25, kg, supermarket
